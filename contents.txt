@@ -9,24 +9,6 @@ C++_basic.cc	C++ 基礎
 C++_remind.txt	C++ 易忘的內建函數
 python.py	python 常用
 
-[官-數學]
-find_divisor.cc	找因數
-GCD.cc	公因數
-derivative.cc	求導數
-sum_of_product.txt	Sum of Product
-Farie_series.txt	法里數列
-
-[立委-幾何]
-Center_of_Masses_(Polygon).cc	Center of Masses (Polygon)
-convexHull.cc	convexHull
-Intersection(Line_and_Line).cc	Intersection(Line and Line)
-Intersection(Line_and_Point).cc	Intersection(Line and Point)
-Pack_Polygon_Circle.cc	Pack Polygon Circle
-Two_Point_and_Circle.cc	Two Point and Circle
-
-[立委-圖論]
-Li_Kruskal.cc	Kruskal
-Li_Shortest_Path.cc	Shortest Path
 
 [大衛-動態規劃]
 01_Knapsack_Problem.cc	背包問題
