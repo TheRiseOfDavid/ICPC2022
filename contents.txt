@@ -9,6 +9,14 @@ C++_basic.cc	C++ 基礎
 C++_remind.txt	C++ 易忘的內建函數
 python.py	python 常用
 
+[承恩-數論]
+two_Josephus.cc	約瑟夫斯-每兩個殺一次
+Josephus.cc	約瑟夫斯-一般情況
+kadane.cc	最大子數列
+LIS.cc	最長遞增子序列
+
+[承恩-圖論]
+binary_search.cc	二分搜尋
 
 [建榮-演算法]
 DFS.cc	深度優先搜尋
@@ -17,7 +25,6 @@ Floyd-Warshall.cc	弗洛依德
 Dijsktra.cc	戴克斯特拉
 Topological Ordering.cc	拓樸排序
 Kruskal.cc	克魯斯克爾
-LIS.cc	最常遞增子序列
 Segment Tree.cc	線段樹
 Monotone_Queue.cc	單調佇列
 LCS.cc	最常共同子序列
@@ -29,7 +36,7 @@ Kosaraju.cc	強連通分量
 
 [建榮-幾何]
 Point.cc	點的模板
-Vector.cc	向量模板
+vector.cc	向量計算
 Line.cc	直線模板
 circumcenter.cc	找三角形外心
 intersection_line_point.cc	點在直線的上或下
