@@ -43,14 +43,15 @@ intersection_line_point.cc	點在直線的上或下
 intersection.cc	兩直線交點
 centroid.cc	多邊形重心
 
-
 [大衛-動態規劃]
 01_Knapsack_Problem.cc	背包問題
 LCS_ologn.cc	LCS 
 LIS.cc	LIS
 Josephus_problem.cc	約瑟夫問題
+DAG.txt	Directed Acyclic Graph
 
 [大衛-圖論]
+euler.cc	歐拉回路
 floyd.cc	floyd 最短路徑
 kruskal.cc	最小生成樹
 graph_theorm_find_bridge.cc	找圖中的橋 find bridge
