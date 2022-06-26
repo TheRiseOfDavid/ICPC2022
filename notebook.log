@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.29)  29 MAY 2022 15:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  26 JUN 2022 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,9 +6,9 @@ entering extended mode
 (notebook.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -23,27 +23,27 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJKutf8.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJKutf8.sty
 Package: CJKutf8 2021/10/16 4.8.5
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.sty
 Package: CJK 2021/10/16 4.8.5
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/cjk/mule\MULEenc.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/cjk/mule\MULEenc.sty
 Package: MULEenc 2021/10/16 4.8.5
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.enc
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.enc
 File: CJK.enc 2021/10/16 4.8.5
 Now handling font encoding C00 ...
 ... no UTF-8 mapping file for font encoding C00
@@ -112,17 +112,17 @@ Now handling font encoding C62 ...
 )
 \CJK@indent=\box50
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ))
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count193
@@ -138,66 +138,65 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks19
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
-ty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.st
+y
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
-.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.
+sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+) (C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen147
 \Hy@linkcounter=\count196
 \Hy@pagecounter=\count197
- (C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count198
- (C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -211,18 +210,18 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4390.
 \c@Hy@tempcnt=\count199
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4749.
 \XeTeXLinkMargin=\dimen148
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -239,7 +238,7 @@ Package hyperref Info: PDF/A mode OFF on input line 6057.
 LaTeX Info: Redefining \ref on input line 6097.
 LaTeX Info: Redefining \pageref on input line 6101.
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -248,10 +247,11 @@ package with kernel methods
 \c@Hfootnote=\count269
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
@@ -259,12 +259,12 @@ with kernel methods
 \Fld@listcount=\count270
 \c@bookmark@seq@number=\count271
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -272,7 +272,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip49
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
 rs
 \f@nch@headwidth=\skip50
@@ -285,7 +285,7 @@ rs
 \f@nch@O@olf=\skip57
 \f@nch@O@orf=\skip58
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count272
 \lst@gtempboxa=\box51
 \lst@token=\toks20
@@ -299,25 +299,26 @@ rs
 \lst@lineno=\count277
 \lst@maxwidth=\dimen154
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count278
 \lst@skipnumbers=\count279
 \lst@framebox=\box52
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
@@ -329,7 +330,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-) (C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+) (C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
 \cftparskip=\skip59
@@ -366,26 +367,26 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cfttabindent=\skip88
 \cfttabnumwidth=\skip89
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 ))
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+) (C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \c@tracingmulticols=\count282
 \mult@box=\box53
@@ -453,25 +454,24 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \mult@nat@firstbox=\box96
 \colbreak@box=\box97
 \mc@col@check@num=\count291
-)
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+) (C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip92
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen164
 ))
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen165
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
 \inf@bad=\count292
@@ -512,8 +512,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count304
 \l__pdf_internal_box=\box100
@@ -638,14 +638,14 @@ LaTeX Font Info:    ... okay on input line 79.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 79.
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count305
@@ -659,8 +659,8 @@ LaTeX Info: Redefining \nameref on input line 79.
 
 \c@lstlisting=\count306
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count307
 \scratchdimen=\dimen173
@@ -674,54 +674,54 @@ ii
 \makeMPintoPDFobject=\count312
 \everyMPtoPDFconversion=\toks27
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.bdg
+)) (C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.bdg
 File: UTF8.bdg 2021/10/16 4.8.5
-) (C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.enc
+)
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.enc
 File: UTF8.enc 2021/10/16 4.8.5
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.chr
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.chr
 File: UTF8.chr 2021/10/16 4.8.5
 )
-(notebook.toc
-LaTeX Font Info:    Trying to load font information for C70+bsmi on input line 
-1.
-
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\c70bsmi.fd
-File: c70bsmi.fd 2021/10/16 4.8.5
-)
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\c70bsmi.fdx
-File: c70bsmi.fdx 2021/10/16 4.8.5
-))
+(notebook.toc)
 \tf@toc=\write4
 \openout4 = `notebook.toc'.
 
+ (contents.tex
+LaTeX Font Info:    Trying to load font information for C70+bsmi on input line 
+1.
 
-(contents.tex
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\c70bsmi.fd
+File: c70bsmi.fd 2021/10/16 4.8.5
+)
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\c70bsmi.fdx
+File: c70bsmi.fdx 2021/10/16 4.8.5
+)
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 3.
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
 .
 
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 (code/keyword.txt)
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 (code/C++_basic.cc
@@ -733,141 +733,75 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 (Font)              using `C70/bsmi/m/n' instead on input line 1.
 
 ) (code/C++_remind.txt)
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+(C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(code/python.py
+(code/python.py) (code/DFS.cc
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 33.
+(Font)              size <5> substituted on input line 25.
 
-[1{C:/Users/csasd/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+[1{C:/Users/Ryan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
 ])
-(code/find_divisor.cc) (code/GCD.cc
-LaTeX Font Info:    Calculating math sizes for size <5.5> on input line 1.
-
+(code/BFS.cc) (code/Floyd-Warshall.cc) (code/Dijsktra.cc [2])
+(code/Topological Ordering.cc) (code/Kruskal.cc [3]) (code/LIS.cc)
+(code/Segment Tree.cc [4]) (code/Monotone_Queue.cc) (code/LCS.cc)
+(code/Binary_Search.cc) (code/Binary_Tree.cc [5]) (code/GCD.cc)
+(code/Disjoint Set.cc) (code/Kosaraju.cc) (code/Point.cc [6]) (code/Vector.cc)
+(code/Line.cc) (code/circumcenter.cc) (code/intersection_line_point.cc [7])
+(code/intersection.cc) (code/centroid.cc [8]) (code/01_Knapsack_Problem.cc)
+(code/LCS_ologn.cc) (code/LIS.cc [9]) (code/Josephus_problem.cc) (code/floyd.cc
+LaTeX Font Info:    Calculating math sizes for size <5.5> on input line 4.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.84998> not available
-(Font)              size <5> substituted on input line 1.
+(Font)              size <5> substituted on input line 4.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.75> not available
-(Font)              size <5> substituted on input line 1.
+(Font)              size <5> substituted on input line 4.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 1.
+(Font)              size <5> substituted on input line 4.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.84998> not available
-(Font)              size <5> substituted on input line 1.
+(Font)              size <5> substituted on input line 4.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.75> not available
-(Font)              size <5> substituted on input line 1.
+(Font)              size <5> substituted on input line 4.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 1.
+(Font)              size <5> substituted on input line 4.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.84998> not available
-(Font)              size <5> substituted on input line 1.
+(Font)              size <5> substituted on input line 4.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.75> not available
-(Font)              size <5> substituted on input line 1.
+(Font)              size <5> substituted on input line 4.
 
-
-LaTeX Warning: Command \textellipsis invalid in math mode on input line 1.
-
-
-LaTeX Warning: Command \textellipsis invalid in math mode on input line 4.
-
-) (code/derivative.cc) (code/sum_of_product.txt) (code/Farie_series.txt)
-(code/Center_of_Masses_(Polygon).cc [2]) (code/convexHull.cc
-Missing character: There is no ^^F in font bsmiu5c!
-Missing character: There is no ¹ in font bsmiu70!
-Missing character: There is no   in font bsmiu52!
-Missing character: There is no ¹ in font bsmiu70!
-Missing character: There is no ^^F in font bsmiu5c!
-Missing character: There is no Î in font bsmiu4e!
-Missing character: There is no ^^@ in font bsmiu5f!
-Missing character: There is no S in font bsmiu5f!
-Missing character: There is no ¹ in font bsmiu70!
-Missing character: There is no Û in font bsmiu8f!
-Missing character: There is no ¹ in font bsmiu8f!
-Missing character: There is no ï in font bsmiu79!
-Missing character: There is no : in font bsmiu4e!
-Missing character: There is no ö in font bsmiu65!
-Missing character: There is no ç in font bsmiu7e!
-Missing character: There is no í in font bsmiu7e!
-Missing character: There is no ^^Y in font bsmiu52!
-Missing character: There is no ï in font bsmiu79!
-Missing character: There is no : in font bsmiu4e!
-Missing character: There is no ^^_ in font bsmiu8d!
-Missing character: There is no   in font bsmiu52!
-Missing character: There is no ¹ in font bsmiu70!
-Missing character: There is no ¹ in font bsmiu70!
-Missing character: There is no ¹ in font bsmiu8f!
-Missing character: There is no Î in font bsmiu4e!
-Missing character: There is no Î in font bsmiu4e!
-Missing character: There is no e in font bsmiu67!
-Missing character: There is no B in font bsmiu67!
-) (code/Intersection(Line_and_Line).cc
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 12.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <3.84998> not available
-(Font)              size <5> substituted on input line 12.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <2.75> not available
-(Font)              size <5> substituted on input line 12.
-
-[3]) (code/Intersection(Line_and_Point).cc
+) (code/kruskal.cc [10]) (code/graph_theorm_find_bridge.cc)
+(code/Topological_Ordering.cc) (code/Component_Kosaraju_Algorithm.cc [11])
+(code/Component_Tarjan_Algorithm.cc) (code/dijkstra.cc [12])
+(code/Maximum_Bipartite_Matching.cc) (code/Disjoint_Set.cc)
+(code/segment_tree.cc [13]) (code/KMP.cc) (code/Minimum_Edit_Distance.cc
+[14]) (code/Suffix_Automaton.cc) (code/suffix_tree.cc
 Missing character: There is no ^^R in font bsmiu22!
-Missing character: There is no ^^R in font bsmiu22!
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family pcr in TS1 encoding.
-            Default family used instead on input line 7.
-
-LaTeX Font Warning: Font shape `OT1/cmtt/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 7.
-
-LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
-7.
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
-File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-
-LaTeX Font Warning: Font shape `TS1/cmtt/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 7.
-
-LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 8
-.
-(C:\Users\csasd\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pcr.fd
+[15]
+LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 6
+1.
+ (C:\Users\Ryan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pcr.fd
 File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
 )
 LaTeX Font Info:    Font shape `TS1/pcr/m/it' in size <5.5> not available
-(Font)              Font shape `TS1/pcr/m/sl' tried instead on input line 8.
-)
-(code/Pack_Polygon_Circle.cc [4]) (code/Two_Point_and_Circle.cc)
-(code/Li_Kruskal.cc [5]) (code/Li_Shortest_Path.cc)
-(code/01_Knapsack_Problem.cc) (code/LCS_ologn.cc [6]) (code/LIS.cc)
-(code/Josephus_problem.cc) (code/floyd.cc) [7] (code/kruskal.cc)
-(code/graph_theorm_find_bridge.cc) (code/Topological_Ordering.cc)
-(code/Component_Kosaraju_Algorithm.cc [8]) (code/Component_Tarjan_Algorithm.cc)
-(code/dijkstra.cc [9]) (code/Maximum_Bipartite_Matching.cc)
-(code/Disjoint_Set.cc) (code/segment_tree.cc [10]) (code/KMP.cc)
-(code/Minimum_Edit_Distance.cc [11]) (code/Suffix_Automaton.cc)
-(code/suffix_tree.cc [12]
-Missing character: There is no ^^R in font bsmiu22!
-)) [13] (notebook.aux)
+(Font)              Font shape `TS1/pcr/m/sl' tried instead on input line 61.
+)) [16] (notebook.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.25pt have occurred.
@@ -875,114 +809,114 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `notebook.out' has not changed.
-(rerunfilecheck)             Checksum: BEB361AB917CD7BAF5B44CE342DFA5E3;4915.
+
+Package rerunfilecheck Warning: File `notebook.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `notebook.out':
+(rerunfilecheck)             Before: 8533E6B5B02006DCAD06691144CACECD;1286
+(rerunfilecheck)             After:  D55F768300A24FEAE8C04D81A3360C69;5263.
  ) 
 Here is how much of TeX's memory you used:
- 18550 strings out of 478582
- 282871 string characters out of 2844344
- 1502799 words of memory out of 3000000
- 34190 multiletter control sequences out of 15000+600000
- 530545 words of font info for 243 fonts, out of 8000000 for 9000
+ 18982 strings out of 478582
+ 289306 string characters out of 2844816
+ 1735145 words of memory out of 3000000
+ 34051 multiletter control sequences out of 15000+600000
+ 516420 words of font info for 193 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,14n,76p,449b,2077s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\csasd\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi375\tcit
-0800.pk>{C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.e
-nc}<C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu
-30.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/b
-smiu4e.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsm
-iu/bsmiu4f.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic
-/bsmiu/bsmiu50.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/ar
-phic/bsmiu/bsmiu51.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type
-1/arphic/bsmiu/bsmiu52.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/
-type1/arphic/bsmiu/bsmiu53.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fo
-nts/type1/arphic/bsmiu/bsmiu54.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTe
-X/fonts/type1/arphic/bsmiu/bsmiu55.pfb><C:/Users/csasd/AppData/Local/Programs/M
-iKTeX/fonts/type1/arphic/bsmiu/bsmiu56.pfb><C:/Users/csasd/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu57.pfb><C:/Users/csasd/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu58.pfb><C:/Users/csasd/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu59.pfb><C:/Users/csasd/AppData/
-Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5b.pfb><C:/Users/csasd/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5c.pfb><C:/Users/csasd/
-AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5d.pfb><C:/Users/cs
-asd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5e.pfb><C:/User
-s/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5f.pfb><C:/
-Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu60.pfb>
-<C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu61.
-pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmi
-u62.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/
-bsmiu63.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bs
-miu/bsmiu64.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphi
-c/bsmiu/bsmiu65.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/a
-rphic/bsmiu/bsmiu66.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/arphic/bsmiu/bsmiu67.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts
-/type1/arphic/bsmiu/bsmiu68.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/f
-onts/type1/arphic/bsmiu/bsmiu69.pfb><C:/Users/csasd/AppData/Local/Programs/MiKT
-eX/fonts/type1/arphic/bsmiu/bsmiu6a.pfb><C:/Users/csasd/AppData/Local/Programs/
-MiKTeX/fonts/type1/arphic/bsmiu/bsmiu6b.pfb><C:/Users/csasd/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu6c.pfb><C:/Users/csasd/AppData/Local/P
-rograms/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu6d.pfb><C:/Users/csasd/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu6e.pfb><C:/Users/csasd/AppData
-/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu6f.pfb><C:/Users/csasd/App
-Data/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu70.pfb><C:/Users/csasd
-/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu71.pfb><C:/Users/c
-sasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu72.pfb><C:/Use
-rs/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu73.pfb><C:
-/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu74.pfb
-><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu75
-.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsm
-iu76.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu
-/bsmiu77.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/b
-smiu/bsmiu78.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arph
-ic/bsmiu/bsmiu79.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/
-arphic/bsmiu/bsmiu7a.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/arphic/bsmiu/bsmiu7b.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/font
-s/type1/arphic/bsmiu/bsmiu7c.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/
-fonts/type1/arphic/bsmiu/bsmiu7d.pfb><C:/Users/csasd/AppData/Local/Programs/MiK
-TeX/fonts/type1/arphic/bsmiu/bsmiu7e.pfb><C:/Users/csasd/AppData/Local/Programs
-/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7f.pfb><C:/Users/csasd/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu80.pfb><C:/Users/csasd/AppData/Local/
-Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu81.pfb><C:/Users/csasd/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu82.pfb><C:/Users/csasd/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu84.pfb><C:/Users/csasd/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu85.pfb><C:/Users/csas
-d/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu86.pfb><C:/Users/
-csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu88.pfb><C:/Us
-ers/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu89.pfb><C
-:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu8a.pf
-b><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu8
-b.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bs
-miu8c.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmi
-u/bsmiu8d.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/
-bsmiu/bsmiu8e.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/arp
-hic/bsmiu/bsmiu8f.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1
-/arphic/bsmiu/bsmiu90.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/arphic/bsmiu/bsmiu91.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fon
-ts/type1/arphic/bsmiu/bsmiu93.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX
-/fonts/type1/arphic/bsmiu/bsmiu95.pfb><C:/Users/csasd/AppData/Local/Programs/Mi
-KTeX/fonts/type1/arphic/bsmiu/bsmiu96.pfb><C:/Users/csasd/AppData/Local/Program
-s/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu97.pfb><C:/Users/csasd/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu98.pfb><C:/Users/csasd/AppData/Local
-/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu99.pfb><C:/Users/csasd/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu9a.pfb><C:/Users/csasd/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu9e.pfb><C:/Users/csasd/A
-ppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiuff.pfb><C:/Users/csa
-sd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
-Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx5.
-pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmbx8.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmmi5.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><C:/Users/csasd/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/csasd/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/csasd/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/csasd/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/csasd/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/csasd/App
-Data/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/csasd/A
-ppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on notebook.pdf (13 pages, 1189705 bytes).
+ 70i,13n,76p,393b,2033s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/
+Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu30.pfb><
+C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu4e.pf
+b><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu4f
+.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmi
+u50.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/b
+smiu51.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmi
+u/bsmiu52.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/b
+smiu/bsmiu53.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphi
+c/bsmiu/bsmiu54.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/ar
+phic/bsmiu/bsmiu55.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1
+/arphic/bsmiu/bsmiu56.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/arphic/bsmiu/bsmiu57.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts
+/type1/arphic/bsmiu/bsmiu58.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fo
+nts/type1/arphic/bsmiu/bsmiu59.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX
+/fonts/type1/arphic/bsmiu/bsmiu5b.pfb><C:/Users/Ryan/AppData/Local/Programs/MiK
+TeX/fonts/type1/arphic/bsmiu/bsmiu5c.pfb><C:/Users/Ryan/AppData/Local/Programs/
+MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5d.pfb><C:/Users/Ryan/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5e.pfb><C:/Users/Ryan/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5f.pfb><C:/Users/Ryan/AppData/Local/
+Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu60.pfb><C:/Users/Ryan/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu61.pfb><C:/Users/Ryan/AppData/
+Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu62.pfb><C:/Users/Ryan/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu63.pfb><C:/Users/Ryan/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu64.pfb><C:/Users/Ryan
+/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu65.pfb><C:/Users/R
+yan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu66.pfb><C:/User
+s/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu67.pfb><C:/U
+sers/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu68.pfb><C
+:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu69.pfb
+><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu6a.
+pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu
+6b.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bs
+miu6c.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu
+/bsmiu6d.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bs
+miu/bsmiu6e.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic
+/bsmiu/bsmiu6f.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arp
+hic/bsmiu/bsmiu70.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/
+arphic/bsmiu/bsmiu71.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/arphic/bsmiu/bsmiu72.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/
+type1/arphic/bsmiu/bsmiu73.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fon
+ts/type1/arphic/bsmiu/bsmiu74.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/
+fonts/type1/arphic/bsmiu/bsmiu75.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKT
+eX/fonts/type1/arphic/bsmiu/bsmiu76.pfb><C:/Users/Ryan/AppData/Local/Programs/M
+iKTeX/fonts/type1/arphic/bsmiu/bsmiu77.pfb><C:/Users/Ryan/AppData/Local/Program
+s/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu78.pfb><C:/Users/Ryan/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu79.pfb><C:/Users/Ryan/AppData/Local/P
+rograms/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7a.pfb><C:/Users/Ryan/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7b.pfb><C:/Users/Ryan/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7c.pfb><C:/Users/Ryan/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7d.pfb><C:/Users/Ryan/App
+Data/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7e.pfb><C:/Users/Ryan/
+AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7f.pfb><C:/Users/Ry
+an/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu80.pfb><C:/Users
+/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu81.pfb><C:/Us
+ers/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu82.pfb><C:
+/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu84.pfb>
+<C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu85.p
+fb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu8
+6.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsm
+iu88.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/
+bsmiu89.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsm
+iu/bsmiu8a.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/
+bsmiu/bsmiu8b.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/arph
+ic/bsmiu/bsmiu8c.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/a
+rphic/bsmiu/bsmiu8d.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type
+1/arphic/bsmiu/bsmiu8e.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/arphic/bsmiu/bsmiu8f.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/font
+s/type1/arphic/bsmiu/bsmiu90.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/f
+onts/type1/arphic/bsmiu/bsmiu91.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTe
+X/fonts/type1/arphic/bsmiu/bsmiu93.pfb><C:/Users/Ryan/AppData/Local/Programs/Mi
+KTeX/fonts/type1/arphic/bsmiu/bsmiu95.pfb><C:/Users/Ryan/AppData/Local/Programs
+/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu96.pfb><C:/Users/Ryan/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu97.pfb><C:/Users/Ryan/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu98.pfb><C:/Users/Ryan/AppData/Local
+/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu9a.pfb><C:/Users/Ryan/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu9b.pfb><C:/Users/Ryan/AppData
+/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu9e.pfb><C:/Users/Ryan/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiuff.pfb><C:/Users/Ryan/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/User
+s/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><
+C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr12.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr5.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/urw
+/courier/ucrb8a.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/ur
+w/courier/ucrr8a.pfb><C:/Users/Ryan/AppData/Local/Programs/MiKTeX/fonts/type1/u
+rw/courier/ucrro8a.pfb>
+Output written on notebook.pdf (16 pages, 1186328 bytes).
 PDF statistics:
- 3006 PDF objects out of 3580 (max. 8388607)
- 1889 named destinations out of 2073 (max. 500000)
- 649 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3563 PDF objects out of 3580 (max. 8388607)
+ 2478 named destinations out of 2487 (max. 500000)
+ 409 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -10,6 +10,33 @@ C++_remind.txt	C++ 易忘的內建函數
 python.py	python 常用
 
 
+[建榮-演算法]
+DFS.cc	深度優先搜尋
+BFS.cc	廣度優先搜尋
+Floyd-Warshall.cc	弗洛依德
+Dijsktra.cc	戴克斯特拉
+Topological Ordering.cc	拓樸排序
+Kruskal.cc	克魯斯克爾
+LIS.cc	最常遞增子序列
+Segment Tree.cc	線段樹
+Monotone_Queue.cc	單調佇列
+LCS.cc	最常共同子序列
+Binary_Search.cc	二分搜
+Binary_Tree.cc	二元數的走訪
+GCD.cc	最大公因數
+Disjoint Set.cc	並查集
+Kosaraju.cc	強連通分量
+
+[建榮-幾何]
+Point.cc	點的模板
+Vector.cc	向量模板
+Line.cc	直線模板
+circumcenter.cc	找三角形外心
+intersection_line_point.cc	點在直線的上或下
+intersection.cc	兩直線交點
+centroid.cc	多邊形重心
+
+
 [大衛-動態規劃]
 01_Knapsack_Problem.cc	背包問題
 LCS_ologn.cc	LCS 
