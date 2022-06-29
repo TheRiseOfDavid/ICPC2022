@@ -1,11 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.16)  26 JUN 2022 22:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.18)  29 JUN 2022 11:43
 entering extended mode
 **./notebook.tex
 (notebook.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-07-12> (D:\tool\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2021-07-12>
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(D:\tool\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
@@ -20,27 +21,27 @@ File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(D:\tool\MiKTeX\tex/latex/cjk\CJKutf8.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJKutf8.sty
 Package: CJKutf8 2015/04/18 4.8.4
 
-(D:\tool\MiKTeX\tex/generic/iftex\ifpdf.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 
-(D:\tool\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-(D:\tool\MiKTeX\tex/latex/base\inputenc.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(D:\tool\MiKTeX\tex/latex/cjk\CJK.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.sty
 Package: CJK 2015/04/18 4.8.4
 
-(D:\tool\MiKTeX\tex/latex/cjk/mule\MULEenc.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/cjk/mule\MULEenc.sty
 Package: MULEenc 2015/04/18 4.8.4
 )
-(D:\tool\MiKTeX\tex/latex/cjk\CJK.enc
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/cjk\CJK.enc
 File: CJK.enc 2015/04/18 4.8.4
 Now handling font encoding C00 ...
 ... no UTF-8 mapping file for font encoding C00
@@ -110,17 +111,17 @@ Now handling font encoding C62 ...
 LaTeX Info: Redefining \selectfont on input line 755.
 \CJK@indent=\box50
 )
-(D:\tool\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ))
-(D:\tool\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(D:\tool\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 )
-(D:\tool\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count190
@@ -136,67 +137,70 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks19
 
-(D:\tool\MiKTeX\tex/latex/geometry\geometry.cfg))
-(D:\tool\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
-(D:\tool\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(D:\tool\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(D:\tool\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(D:\tool\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.st
+y
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(D:\tool\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(D:\tool\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(D:\tool\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(D:\tool\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.
+sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(D:\tool\MiKTeX\tex/latex/auxhook\auxhook.sty
+) (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(D:\tool\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen147
 \Hy@linkcounter=\count193
 \Hy@pagecounter=\count194
-
-(D:\tool\MiKTeX\tex/latex/hyperref\pd1enc.def
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(D:\tool\MiKTeX\tex/latex/hyperref\hyperref-langpatches.def
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langpa
+tches.def
 File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
 nguages
 )
-(D:\tool\MiKTeX\tex/generic/intcalc\intcalc.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(D:\tool\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count195
-
-(D:\tool\MiKTeX\tex/latex/hyperref\puenc.def
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -210,17 +214,18 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
 \c@Hy@tempcnt=\count196
 
-(D:\tool\MiKTeX\tex/latex/url\url.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen148
 
-(D:\tool\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(D:\tool\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -237,7 +242,7 @@ Package hyperref Info: PDF/A mode OFF on input line 6106.
 LaTeX Info: Redefining \ref on input line 6146.
 LaTeX Info: Redefining \pageref on input line 6150.
 
-(D:\tool\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -247,10 +252,10 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(D:\tool\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 
-(D:\tool\MiKTeX\tex/latex/base\atveryend-ltx.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
@@ -258,10 +263,12 @@ with kernel methods
 \Fld@listcount=\count267
 \c@bookmark@seq@number=\count268
 
-(D:\tool\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(D:\tool\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -269,7 +276,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip49
 )
-(D:\tool\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
 \f@nch@headwidth=\skip50
@@ -282,7 +289,7 @@ rs
 \f@nch@O@olf=\skip57
 \f@nch@O@orf=\skip58
 )
-(D:\tool\MiKTeX\tex/latex/listings\listings.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count269
 \lst@gtempboxa=\box51
 \lst@token=\toks20
@@ -296,26 +303,26 @@ rs
 \lst@lineno=\count274
 \lst@maxwidth=\dimen154
 
-(D:\tool\MiKTeX\tex/latex/listings\lstmisc.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count275
 \lst@skipnumbers=\count276
 \lst@framebox=\box52
 )
-(D:\tool\MiKTeX\tex/latex/listings\listings.cfg
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-(D:\tool\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(D:\tool\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(D:\tool\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -327,8 +334,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(D:\tool\MiKTeX\tex/latex/tocloft\tocloft.sty
+) (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
 \cftparskip=\skip59
@@ -365,26 +371,26 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cfttabindent=\skip88
 \cfttabnumwidth=\skip89
 )
-(D:\tool\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
-(D:\tool\MiKTeX\tex/latex/graphics\lscape.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 
-(D:\tool\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(D:\tool\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(D:\tool\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 ))
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
-(D:\tool\MiKTeX\tex/latex/tools\multicol.sty
+) (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \c@tracingmulticols=\count279
 \mult@box=\box53
@@ -453,25 +459,24 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \mult@nat@firstbox=\box97
 \colbreak@box=\box98
 \mc@col@check@num=\count288
-)
-(D:\tool\MiKTeX\tex/latex/amsmath\amsmath.sty
+) (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip92
 
 For additional information on amsmath, use the `?' option.
-(D:\tool\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(D:\tool\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen164
 ))
-(D:\tool\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen165
 )
-(D:\tool\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count289
@@ -512,95 +517,96 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(D:\tool\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count301
 \l__pdf_internal_box=\box101
 ) (notebook.aux)
 \openout1 = `notebook.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -636,28 +642,30 @@ LaTeX Font Info:    ... okay on input line 79.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 79.
-(D:\tool\MiKTeX\tex/latex/hyperref\nameref.sty
+Package hyperref Info: Link coloring OFF on input line 76.
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-(D:\tool\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(D:\tool\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count302
 )
-LaTeX Info: Redefining \ref on input line 79.
-LaTeX Info: Redefining \pageref on input line 79.
-LaTeX Info: Redefining \nameref on input line 79.
- (notebook.out)
-(notebook.out)
+LaTeX Info: Redefining \ref on input line 76.
+LaTeX Info: Redefining \pageref on input line 76.
+LaTeX Info: Redefining \nameref on input line 76.
+ (notebook.out) (notebook.out)
 \@outlinefile=\write3
 \openout3 = `notebook.out'.
 
 \c@lstlisting=\count303
- (D:\tool\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count304
 \scratchdimen=\dimen173
@@ -670,53 +678,59 @@ LaTeX Info: Redefining \nameref on input line 79.
 \MPnumerator=\count308
 \makeMPintoPDFobject=\count309
 \everyMPtoPDFconversion=\toks27
-) (D:\tool\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(D:\tool\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-(D:\tool\MiKTeX\tex/latex/cjk/UTF8\UTF8.bdg
+)) (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.bdg
 File: UTF8.bdg 2015/04/18 4.8.4
 )
-(D:\tool\MiKTeX\tex/latex/cjk/UTF8\UTF8.enc
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.enc
 File: UTF8.enc 2015/04/18 4.8.4
 )
-(D:\tool\MiKTeX\tex/latex/cjk/UTF8\UTF8.chr
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
-) (notebook.toc
+)
+(notebook.toc
 LaTeX Font Info:    Trying to load font information for C70+bsmi on input line 
 1.
 
-(D:\tool\MiKTeX\tex/latex/cjk/UTF8\c70bsmi.fd
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\c70bsmi.fd
 File: c70bsmi.fd 2015/04/18 4.8.4
 )
-(D:\tool\MiKTeX\tex/latex/cjk/UTF8\c70bsmi.fdx
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\c70bsmi.fdx
 File: c70bsmi.fdx 2015/04/18 4.8.4
 ))
 \tf@toc=\write4
 \openout4 = `notebook.toc'.
 
- (contents.tex
+
+(contents.tex
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 3.
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
 .
 
-(D:\tool\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) (code/keyword.txt)
-(D:\tool\MiKTeX\tex/latex/listings\lstlang1.sty
+)
+(code/keyword.txt)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(D:\tool\MiKTeX\tex/latex/listings\lstlang1.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(D:\tool\MiKTeX\tex/latex/listings\lstmisc.sty
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-) (code/C++_basic.cc
+)
+(code/C++_basic.cc
 LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <5.5> not available
 (Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 1.
 
@@ -724,15 +738,16 @@ LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <5.5> not available
 LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 (Font)              using `C70/bsmi/m/n' instead on input line 1.
 
-) (code/C++_remind.txt) (D:\tool\MiKTeX\tex/latex/listings\lstlang1.sty
+) (code/C++_remind.txt)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 (code/python.py
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 10.
+(Font)              size <5> substituted on input line 33.
 
-[1{C:/Users/user/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+[1{C:/Users/User/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
 ])
@@ -759,13 +774,56 @@ Missing character: There is no * in font bsmiu4e!
 Missing character: There is no È in font bsmiu7e!
 Missing character: There is no  in font bsmiu7f!
 Missing character: There is no ÷ in font bsmiu53!
-) (code/kadane.cc) (code/LIS.cc
-[2]) (code/binary_search.cc) (code/DFS.cc) (code/BFS.cc)
-(code/Floyd-Warshall.cc [3]) (code/Dijsktra.cc) (code/Topological Ordering.cc
-[4]) (code/Kruskal.cc) (code/Segment Tree.cc [5]) (code/Monotone_Queue.cc)
-(code/LCS.cc) (code/Binary_Search.cc) (code/Binary_Tree.cc) (code/GCD.cc
-[6]) (code/Disjoint Set.cc) (code/Kosaraju.cc) (code/Point.cc) (code/vector.cc
-[7]
+) (code/kadane.cc) (code/DFS.cc)
+(code/BFS.cc [2]) (code/Binary_Search.cc) (code/Binary_Tree.cc) (code/GCD.cc)
+(code/math_of_highschool.cc
+LaTeX Font Info:    Calculating math sizes for size <5.5> on input line 2.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.84998> not available
+(Font)              size <5> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.75> not available
+(Font)              size <5> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
+(Font)              size <5> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.84998> not available
+(Font)              size <5> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.75> not available
+(Font)              size <5> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.84998> not available
+(Font)              size <5> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.75> not available
+(Font)              size <5> substituted on input line 2.
+
+LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 3
+.
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspcr.fd
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/it' in size <5.5> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 3.
+
+) (code/Point.cc) (code/vector.cc [3]
 Missing character: There is no Ú in font bsmiu02!
 Missing character: There is no Ú in font bsmiu02!
 Missing character: There is no Ú in font bsmiu02!
@@ -774,10 +832,10 @@ Missing character: There is no Ú in font bsmiu02!
 Missing character: There is no Ú in font bsmiu02!
 Missing character: There is no Ú in font bsmiu02!
 Missing character: There is no Ú in font bsmiu02!
-) (code/Line.cc) (code/circumcenter.cc) (code/intersection_line_point.cc
-[8]) (code/intersection.cc) (code/centroid.cc) [9] (code/01_Knapsack_Problem.cc
-) (code/LCS_ologn.cc) (code/LIS.cc) (code/Josephus_problem.cc) (code/DAG.txt)
-(code/euler.cc [10]
+) (code/Line.cc) (code/circumcenter.cc)
+(code/intersection_line_point.cc [4]) (code/intersection.cc)
+(code/01_Knapsack_Problem.cc) (code/LCS_ologn.cc [5]) (code/LIS.cc)
+(code/DAG.txt) (code/euler.cc
 ! Undefined control sequence.
 l.60     //cout << "\n
                       ";
@@ -787,58 +845,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) (code/floyd.cc
-LaTeX Font Info:    Calculating math sizes for size <5.5> on input line 4.
+) [6] (code/floyd.cc) (code/kruskal.cc) (code/graph_theorm_find_bridge.cc
+[7]) (code/Topological_Ordering.cc) (code/Component_Kosaraju_Algorithm.cc)
+(code/dijkstra.cc [8]) (code/Maximum_Bipartite_Matching.cc)
+(code/Disjoint_Set.cc) (code/segment_tree.cc [9]) (code/KMP.cc)
+(code/Minimum_Edit_Distance.cc))
+Overfull \vbox (1.04477pt too high) has occurred while \output is active []
 
 
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.84998> not available
-(Font)              size <5> substituted on input line 4.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.75> not available
-(Font)              size <5> substituted on input line 4.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 4.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.84998> not available
-(Font)              size <5> substituted on input line 4.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.75> not available
-(Font)              size <5> substituted on input line 4.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 4.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.84998> not available
-(Font)              size <5> substituted on input line 4.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.75> not available
-(Font)              size <5> substituted on input line 4.
-
-) (code/kruskal.cc [11]) (code/graph_theorm_find_bridge.cc)
-(code/Topological_Ordering.cc) (code/Component_Kosaraju_Algorithm.cc [12])
-(code/Component_Tarjan_Algorithm.cc) (code/dijkstra.cc [13])
-(code/Maximum_Bipartite_Matching.cc) (code/Disjoint_Set.cc)
-(code/segment_tree.cc [14]) (code/KMP.cc) (code/Minimum_Edit_Distance.cc)
-[15] (code/Suffix_Automaton.cc) (code/suffix_tree.cc
-Missing character: There is no  in font bsmiu22!
- [16]
-LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 6
-1.
-
-(D:\tool\MiKTeX\tex/latex/psnfss\ts1pcr.fd
-File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
-)
-LaTeX Font Info:    Font shape `TS1/pcr/m/it' in size <5.5> not available
-(Font)              Font shape `TS1/pcr/m/sl' tried instead on input line 61.
-)) [17] (notebook.aux)
+[10] (notebook.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.25pt have occurred.
@@ -847,79 +862,112 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `notebook.out' has not changed.
-(rerunfilecheck)             Checksum: AEDDB1EC5F47941602A44827B5646BC0;6146.
+(rerunfilecheck)             Checksum: 85C21B82BFC7AD864BA87C109DBB6A7F;4453.
  ) 
 Here is how much of TeX's memory you used:
- 19012 strings out of 478868
- 273594 string characters out of 2862942
- 1711093 words of memory out of 3000000
- 33676 multiletter control sequences out of 15000+600000
- 474003 words of font info for 274 fonts, out of 8000000 for 9000
+ 17506 strings out of 478868
+ 255552 string characters out of 2849283
+ 1759114 words of memory out of 3000000
+ 33281 multiletter control sequences out of 15000+600000
+ 471915 words of font info for 267 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,13n,80p,393b,2117s stack positions out of 5000i,500n,10000p,200000b,80000s
-{D:/tool/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:/tool/MiKTeX/fonts/type1/arphi
-c/bsmiu/bsmiu03.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu22.pfb><D:/to
-ol/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu30.pfb><D:/tool/MiKTeX/fonts/type1/arph
-ic/bsmiu/bsmiu4e.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu4f.pfb><D:/t
-ool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu50.pfb><D:/tool/MiKTeX/fonts/type1/arp
-hic/bsmiu/bsmiu51.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu52.pfb><D:/
-tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu53.pfb><D:/tool/MiKTeX/fonts/type1/ar
-phic/bsmiu/bsmiu54.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu55.pfb><D:
-/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu56.pfb><D:/tool/MiKTeX/fonts/type1/a
-rphic/bsmiu/bsmiu57.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu58.pfb><D
-:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu59.pfb><D:/tool/MiKTeX/fonts/type1/
-arphic/bsmiu/bsmiu5b.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5c.pfb><
-D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5d.pfb><D:/tool/MiKTeX/fonts/type1
-/arphic/bsmiu/bsmiu5e.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5f.pfb>
-<D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu60.pfb><D:/tool/MiKTeX/fonts/type
-1/arphic/bsmiu/bsmiu61.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu62.pfb
-><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu63.pfb><D:/tool/MiKTeX/fonts/typ
-e1/arphic/bsmiu/bsmiu64.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu65.pf
-b><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu66.pfb><D:/tool/MiKTeX/fonts/ty
-pe1/arphic/bsmiu/bsmiu67.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu68.p
-fb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu69.pfb><D:/tool/MiKTeX/fonts/t
-ype1/arphic/bsmiu/bsmiu6a.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu6b.
-pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu6c.pfb><D:/tool/MiKTeX/fonts/
-type1/arphic/bsmiu/bsmiu6d.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu6e
-.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu6f.pfb><D:/tool/MiKTeX/fonts
-/type1/arphic/bsmiu/bsmiu70.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7
-1.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu72.pfb><D:/tool/MiKTeX/font
-s/type1/arphic/bsmiu/bsmiu73.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu
-74.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu75.pfb><D:/tool/MiKTeX/fon
-ts/type1/arphic/bsmiu/bsmiu76.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmi
-u77.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu78.pfb><D:/tool/MiKTeX/fo
-nts/type1/arphic/bsmiu/bsmiu79.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsm
-iu7a.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7b.pfb><D:/tool/MiKTeX/f
-onts/type1/arphic/bsmiu/bsmiu7c.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bs
-miu7d.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7e.pfb><D:/tool/MiKTeX/
-fonts/type1/arphic/bsmiu/bsmiu7f.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/b
-smiu80.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu81.pfb><D:/tool/MiKTeX
-/fonts/type1/arphic/bsmiu/bsmiu82.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/
-bsmiu84.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu85.pfb><D:/tool/MiKTe
-X/fonts/type1/arphic/bsmiu/bsmiu86.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu
-/bsmiu88.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu89.pfb><D:/tool/MiKT
-eX/fonts/type1/arphic/bsmiu/bsmiu8a.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmi
-u/bsmiu8b.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu8c.pfb><D:/tool/MiK
-TeX/fonts/type1/arphic/bsmiu/bsmiu8d.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsm
-iu/bsmiu8e.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu8f.pfb><D:/tool/Mi
-KTeX/fonts/type1/arphic/bsmiu/bsmiu90.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bs
-miu/bsmiu91.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu93.pfb><D:/tool/M
-iKTeX/fonts/type1/arphic/bsmiu/bsmiu95.pfb><D:/tool/MiKTeX/fonts/type1/arphic/b
-smiu/bsmiu96.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu97.pfb><D:/tool/
-MiKTeX/fonts/type1/arphic/bsmiu/bsmiu98.pfb><D:/tool/MiKTeX/fonts/type1/arphic/
-bsmiu/bsmiu9a.pfb><D:/tool/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu9b.pfb><D:/tool
-/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu9e.pfb><D:/tool/MiKTeX/fonts/type1/arphic
-/bsmiu/bsmiuff.pfb><D:/tool/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D
-:/tool/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><D:/tool/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmmi5.pfb><D:/tool/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr10.pfb><D:/tool/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/tool/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/tool/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmr8.pfb><D:/tool/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><D:/to
-ol/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><D:/tool/MiKTeX/fonts/type1/urw/co
-urier/ucrro8a.pfb>
-Output written on notebook.pdf (17 pages, 1275645 bytes).
+ 72i,13n,80p,391b,2078s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/
+Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu03.pfb><
+C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu22.pf
+b><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu30
+.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmi
+u4e.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/b
+smiu4f.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmi
+u/bsmiu50.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/b
+smiu/bsmiu51.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphi
+c/bsmiu/bsmiu52.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/ar
+phic/bsmiu/bsmiu53.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1
+/arphic/bsmiu/bsmiu54.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/arphic/bsmiu/bsmiu55.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
+/type1/arphic/bsmiu/bsmiu56.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fo
+nts/type1/arphic/bsmiu/bsmiu57.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX
+/fonts/type1/arphic/bsmiu/bsmiu58.pfb><C:/Users/User/AppData/Local/Programs/MiK
+TeX/fonts/type1/arphic/bsmiu/bsmiu59.pfb><C:/Users/User/AppData/Local/Programs/
+MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5b.pfb><C:/Users/User/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5c.pfb><C:/Users/User/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5d.pfb><C:/Users/User/AppData/Local/
+Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5e.pfb><C:/Users/User/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu5f.pfb><C:/Users/User/AppData/
+Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu60.pfb><C:/Users/User/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu61.pfb><C:/Users/User/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu62.pfb><C:/Users/User
+/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu63.pfb><C:/Users/U
+ser/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu64.pfb><C:/User
+s/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu65.pfb><C:/U
+sers/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu66.pfb><C
+:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu67.pfb
+><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu68.
+pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu
+69.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bs
+miu6a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu
+/bsmiu6b.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bs
+miu/bsmiu6c.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic
+/bsmiu/bsmiu6d.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arp
+hic/bsmiu/bsmiu6e.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/
+arphic/bsmiu/bsmiu6f.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/arphic/bsmiu/bsmiu70.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/
+type1/arphic/bsmiu/bsmiu71.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fon
+ts/type1/arphic/bsmiu/bsmiu72.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/
+fonts/type1/arphic/bsmiu/bsmiu73.pfb><C:/Users/User/AppData/Local/Programs/MiKT
+eX/fonts/type1/arphic/bsmiu/bsmiu74.pfb><C:/Users/User/AppData/Local/Programs/M
+iKTeX/fonts/type1/arphic/bsmiu/bsmiu75.pfb><C:/Users/User/AppData/Local/Program
+s/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu76.pfb><C:/Users/User/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu77.pfb><C:/Users/User/AppData/Local/P
+rograms/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu78.pfb><C:/Users/User/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu79.pfb><C:/Users/User/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7a.pfb><C:/Users/User/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7b.pfb><C:/Users/User/App
+Data/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7c.pfb><C:/Users/User/
+AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7d.pfb><C:/Users/Us
+er/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7e.pfb><C:/Users
+/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu7f.pfb><C:/Us
+ers/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu80.pfb><C:
+/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu81.pfb>
+<C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu82.p
+fb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu8
+4.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsm
+iu86.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/
+bsmiu88.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsm
+iu/bsmiu89.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arphic/
+bsmiu/bsmiu8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/arph
+ic/bsmiu/bsmiu8b.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/a
+rphic/bsmiu/bsmiu8c.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type
+1/arphic/bsmiu/bsmiu8d.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/arphic/bsmiu/bsmiu8e.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
+s/type1/arphic/bsmiu/bsmiu8f.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/f
+onts/type1/arphic/bsmiu/bsmiu90.pfb><C:/Users/User/AppData/Local/Programs/MiKTe
+X/fonts/type1/arphic/bsmiu/bsmiu91.pfb><C:/Users/User/AppData/Local/Programs/Mi
+KTeX/fonts/type1/arphic/bsmiu/bsmiu93.pfb><C:/Users/User/AppData/Local/Programs
+/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu95.pfb><C:/Users/User/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu96.pfb><C:/Users/User/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu97.pfb><C:/Users/User/AppData/Local
+/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu98.pfb><C:/Users/User/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu99.pfb><C:/Users/User/AppData
+/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu9a.pfb><C:/Users/User/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiu9e.pfb><C:/Users/User/A
+ppData/Local/Programs/MiKTeX/fonts/type1/arphic/bsmiu/bsmiuff.pfb><C:/Users/Use
+r/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/U
+sers/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pf
+b><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmex
+tra/cmex7.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmmi5.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/User/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/User/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/User/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/User/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/User/AppData/
+Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrro8a.pfb>
+Output written on notebook.pdf (10 pages, 1069399 bytes).
 PDF statistics:
- 3825 PDF objects out of 4296 (max. 8388607)
- 2511 named destinations out of 2984 (max. 500000)
- 785 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2475 PDF objects out of 2487 (max. 8388607)
+ 1453 named destinations out of 1728 (max. 500000)
+ 653 words of extra memory for PDF output out of 10000 (max. 10000000)
 

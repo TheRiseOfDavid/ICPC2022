@@ -1,7 +1,4 @@
----
-tags: Algorithm
----
-# 二分搜
+
 ```c=
 #include <iostream>
 

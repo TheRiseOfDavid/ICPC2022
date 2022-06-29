@@ -1,7 +1,4 @@
----
-tags: Algorithm
----
-# BFS
+
 ```cpp=
 #include <iostream>
 #include <queue>
@@ -10,14 +7,7 @@ using namespace std;
 
 queue<int> q;
 int visited[7];
-int map[7][7] =
-{   {0,0,0,0,0,0,0},
-	{0,0,1,1,0,0,0},
-	{0,1,0,0,1,0,1},
-	{0,1,0,0,0,0,1},
-	{0,0,1,0,0,0,0},
-	{0,0,0,0,0,0,1},
-	{0,0,1,1,0,1,0}   };
+int map[7][7] 
 
 int main(void){
     visited[1] = 1;

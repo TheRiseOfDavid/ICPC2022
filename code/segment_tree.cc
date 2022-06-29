@@ -52,38 +52,6 @@ void modify(int position , int value , int x = 1 ){ //修改數字
 
 }
 
-void push_down(int x, int add){ //將懶人標記往下推，讓下一層子樹進行區間修改
-    int lson = Lson(x), rson = Rson(x);
-    node[lson].z += add;  //給予懶人標記，表示子樹如果要給子樹的子樹區間修改時，
-    node[rson].z += add;  //數值要是多少，左右子樹都需要做
-
-    node[lson].v += add; //更新左右子樹的值
-    node[rson].v += add;
-}
-
-void update(int a, int b, int cmd, int x = 1){ 
-//a, b 為區間修改的 left and right, cmd 為要增加的數值 
-    if(a <= node[x].l && b >= node[x].r){ 
-        //如果節點的 left and right，跟 a, b 區間是相等，或更小就，只要在這邊修改 cmd，
-        //就可以讓 node[x].v 的值直接變為區間修改後的數值，
-        //之後如果要讓這查詢向子樹進行區間修改，就用 push\_down，
-        //我們這邊的懶人標記就會告訴左右子樹要修改的值為多少
-
-        node[x].v += cmd; //區間修改後的 v
-        node[x].z = cmd; //區間修改是要增加多少數值
-        return; 
-    }
-    push_down(x);//先將之前的區間查詢修改值，往下給子樹以避免上次的查詢值被忽略
-    //假如當前的 node[x].z 原本是 3，如果沒有 push\_down(x)，那下面的子樹都沒有被 +3，
-    //導致答案不正確。
-
-    int mid = (node[x].l+node[x].r) / 2;  //切半，向下修改
-    if(a <= mid) update(a, b, cmd, Lson(x)); //如果要修改的點在左邊，就往左下角追蹤
-    if(b > mid) update(a, b, cmd, Rson(x)); //如果要修改的點在右邊，就往右下角追蹤
-    node[x].v = node[Lson(x)].v + node[Rson(x)].v;
-    //比較左右子樹哪個值比較小，較小值為此節點的 value
-}
-
 #define INF 0x3f3f3f
 
 int query(int left , int right , int x = 1 ){

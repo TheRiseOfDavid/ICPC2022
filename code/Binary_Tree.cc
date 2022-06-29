@@ -1,7 +1,4 @@
----
-tags: Algorithm
----
-# 二元數的走訪(Array)
+
 ```c=
 #include <iostream>
 

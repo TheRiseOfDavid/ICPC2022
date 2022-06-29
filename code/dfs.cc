@@ -1,21 +1,10 @@
----
-tags: Algorithm
----
-# DFS
+
 ```c=
 #include <iostream>
 using namespace std;
 
 int visited[7];
-int map[7][7] =
-{  {0,0,0,0,0,0,0},
-	{0,0,1,1,0,0,0},
-	{0,1,0,0,1,0,1},
-	{0,1,0,0,0,0,1},
-	{0,0,1,0,0,0,0},
-	{0,0,0,0,0,0,1},
-	{0,0,1,1,0,1,0} };
-
+int map[7][7] ;
 void dfs(int id){
     cout << id << ' ';
     for (int i = 1; i <= 6; i++){
